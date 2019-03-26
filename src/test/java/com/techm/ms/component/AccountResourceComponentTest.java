@@ -2,8 +2,6 @@ package com.techm.ms.component;
 
 import java.net.InetAddress;
 
-import java.lang.*;
-
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
