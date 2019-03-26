@@ -1,7 +1,6 @@
 package com.techm.ms.component;
 
 import java.net.InetAddress;
-import java.util.*;
 
 import org.junit.Before;
 import org.junit.Test;
